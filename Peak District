@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title id="title">The Peak District</title>
+    <link href="PeakDistrict.css" rel="stylesheet"/>
+</head>
+
+<body>
+    <div class="tribute page">
+        <main id="main">
+            <h1 id="main-heading">The Peak District</h1>
+            <p class="tagline">Come and see what The Peaks have to offer...</>
+        <div id="img-div">
+            <img id="image" class ="image" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/0DEE/production/_123166530_leehowdle2a.jpg.webp" alt="landscape of a valley and a sunset"/>
+            <figcaption id="img-caption">
+                <img-caption id="img-caption">A photo by Lee Howdle titled 'Winnats Fire', a beautiful sunrise over Winnat's Pass
+            </figcaption>
+            
+        </div>
+        <article> 
+            <p id="tribute-info">The Peak District is an upland area in England at the southern end of the Penines. The Peak District is mostly in Derbyshire, but it also extends into Cheshire, Greater Manchester, Staffordshire, West Yorkshire and South Yorkshire.<br> The Peaks are split into the Dark Peaks (mainly on the north, east and west sides) and the White Peaks (which cover the southern and central tracts). The Peak District became the first National Park in England and Wales in 1951.</p>
+        </article>
+        <article class="places">
+            <img id="map" src="https://www.peakdistrict.org/wp-content/uploads/2019/05/Map-of-the-peak-district.jpg" alt="Map of The Peak District National Park"/>
+            <figcaption id="map-caption">
+                <img-caption id="map-caption">A map of The Peak District
+            </figcaption>
+    <h2 class="places_to_visit">Places to Visit:</h2>
+    <ol class="places">
+        <li>Bakewell</li>
+        <li>Alstonefield</li>
+        <li>Winnats Pass</li>
+        <li>Mam Tor</li>
+        <li>Ladybower Reservoir</li>
+        <li>Eyam</li>
+        <li>Stanage Edge</li>
+        <li>Tissington</li>
+    </ol>
+</article>
+<article>
+    <h2>History of The Peak District National Park</h2>
+        <h3>1880s: First freedom to roam bill fails</h3>
+            <p> James Bryce starts a campaign for public access to the countryside. In 1884, he introduced the first freedom to roam bill to parliament. The bill fails, but the campaign had begun.</p>
+        <h3>1900s: Public demands access to the countryside</h3>
+            <p>The new century saw a growing appreciation of the outdoors and the benefits of physical exercise. More people sought to escape to the countryside, leading to growing conflict with landowners.</p>
+        <h3>1930s: Mass trespass</h3> 
+            <p>In 1931, a government inquiry recommmended the creating of an authority to select areas for designation as national parks. However, no action was taken and public discontent grew.<br> <br> In 1932, there was a mass trespass on Kinder Scout in the Peak District. Walkers exercised what they saw as their right to walk unhindered on open moorland. They faced opposition from gamekeepers who were employed by local landowners. Scuffles broke out and five trespassers were imprisioned.
+            <br><br>In 1936, a voluntary Standing Committee on National Parks (SCNP) was formed to argue the case for national parks and to lobby the government. The committee was made up of leisure activity enthusiasts and nature conservationists, including:</p>
+        <li class="associations"><a class ="links" target="_blank" href="https://www.ramblers.org.uk/">The Rambler's Association</a></li>
+        <li class="associations"><a class ="links" target="_blank" href="https://www.yha.org.uk/">The Youth Hostels' Association (YHA)</a></li>
+        <li class="associations"><a class ="links" target="_blank" href="https://www.cpre.org.uk/">The Council for the Preservation for Rural England (CPRE)</a></li>
+        <li class="associations"><a class ="links" target="_blank" href="https://cprw.org.uk/">The Council for the Protection of Rural Wales (CPRW)</a></li>
+        <h3>1940s: The national park principle is established</h3>
+            <p>The Landmark Act of Parliament establishes National Parks principle. The pressure culminates in the 1945 White Paper on National Parks, produced as part of the Labour Party's planned post-war reconstruction.</p>
+        <h3>1950s: The first national park is created</h3>
+             <p>In 1951, the Peak District was the first area to be designated as a national park. By the end of the decade:
+                <ul>
+                <li class="parks">The Lake District</li> 
+                <li class="parks">Snowdonia</li>
+                <li class="parks">Dartmoor</li>
+                <li class="parks">Pembrokeshire Coast</li> 
+                <li class="parks">North York Moors</li> 
+                <li class="parks">Yorkshire Dales</li>
+                <li class="parks">Exmoor</li>
+                <li class="parks">Northumberland</li>
+                <li class="parks">Brecon Beacons</li> 
+            </ul> 
+                had all been designated as national parks. </p>
+        <h3>1977: Creating of Campaign for National Parks</h3>
+            <p>The SNCP became the Council for National Parks (CNP), now called the Campaign for National Parks, a charity which continues to campaign for the protection and enhancement of National Parks.</p>
+        <h3>Today</h3>
+            <p>There are now 15 members of the national parks family all working to ensure that our beautiful areas of mountains, meadows, moorlands, woods and wetlands are protected and can be enjoyed by all.</p>
+
+</article>
+
+
+</main>
+<hr class="bottom-line">
+<footer>
+    <article>
+        <p class="footer">Find out more about <a id="tribute-link" target="_blank" href="https://www.peakdistrict.gov.uk/home">The Peak District</a> at this link.</p>
+     </article>
+
+</footer>
+</div>
+
+</body>
